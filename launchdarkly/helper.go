@@ -2,7 +2,7 @@ package launchdarkly
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math/rand"
 	"net/http"
 	"strconv"
